@@ -1,24 +1,23 @@
-# README
+# auth-zero-test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Test auth zero, uses bycrypt, works fine.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version
 
-* System dependencies
+  3.1.2
 
-* Configuration
+- System dependencies
 
-* Database creation
+- Configuration
 
-* Database initialization
+- Database creation
 
-* How to run the test suite
+- Database initialization
 
-* Services (job queues, cache servers, search engines, etc.)
+- How to run the test suite
 
-* Deployment instructions
+- Services (job queues, cache servers, search engines, etc.)
 
-* ...
+- Deployment instructions
